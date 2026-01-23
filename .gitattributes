@@ -1,0 +1,7 @@
+ruff.7z filter=lfs diff=lfs merge=lfs -text
+si.7z filter=lfs diff=lfs merge=lfs -text
+t.7z filter=lfs diff=lfs merge=lfs -text
+continue.7z filter=lfs diff=lfs merge=lfs -text
+d.7z filter=lfs diff=lfs merge=lfs -text
+jupyter.7z filter=lfs diff=lfs merge=lfs -text
+*.7z filter=lfs diff=lfs merge=lfs -text
